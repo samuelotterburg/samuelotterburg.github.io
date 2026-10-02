@@ -1,0 +1,18 @@
+---
+title: "Samuel Otterburg"
+image: headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/samuelotterburg
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samuel-otterburg
+    - icon: inboxes
+      text: Contact
+      href: mailto:samuelotterburgfranco@gmail.com
+---
+I’m an international student from Bolivia studying Industrial Engineering and Operations Analytics at the University of Arkansas. I enjoy working with data, solving problems, and finding ways to make systems and processes work better.
+
