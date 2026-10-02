@@ -3,7 +3,7 @@
     "path": "C:/ePortfolio/ePortfolio/projects.qmd",
     "project_path": "projects.qmd",
     "type": "quarto_markdown",
-    "hash": "3486401291",
+    "hash": "1139949331",
     "contents": "",
     "dirty": false,
     "created": 1790913872815.0,
@@ -19,14 +19,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "182:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790917077,
+    "lastKnownWriteTime": 1790951022,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790917077845,
+    "last_content_update": 1790951022108,
     "read_only": false,
     "read_only_alternatives": []
 }

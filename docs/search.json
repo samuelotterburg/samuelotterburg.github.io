@@ -33,19 +33,5 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Samuel Otterburg",
-    "section": "",
-    "text": "title: “Projects”\nlisting:\ncontents: posts\nsort: “date”\ntype: grid\ncategories: false\nsort-ui: false\nfilter-ui: false\npage-layout: full"
-  },
-  {
-    "objectID": "projects.html#title-block-banner-true",
-    "href": "projects.html#title-block-banner-true",
-    "title": "Samuel Otterburg",
-    "section": "title-block-banner: true",
-    "text": "title-block-banner: true"
   }
 ]
