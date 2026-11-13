@@ -1,14 +1,18 @@
 ---
-
----
 title: "Projects"
 listing:
   contents: posts
-  sort: "date"
   type: grid
+  sort: "date"
   categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: true
 ---
+
+## U.S. Aviation: Flight Activity and Delays
+
+This project analyzes January 2025 commercial aviation data using Microsoft Excel.
+
+## [View Data Visualization Project](posts/Data%20Visualization/index.html)
